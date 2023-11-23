@@ -16,3 +16,6 @@ Tasks related to creating or updating system documentation.
 
 ## Enhancement: 
 Tasks that introduce new functionality or improvements to existing ones.
+
+## Optimizations: 
+These tasks may include performance improvements, code optimizations, data volume reduction, or enhancing the efficiency of various aspects of the system.
