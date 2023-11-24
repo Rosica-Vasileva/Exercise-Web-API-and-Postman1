@@ -1,21 +1,19 @@
-# 
+✨ Hello and welcome - this is my first scheduled project on GitHub ✨
 
-# List of tasks (issues) in Task Management System-GitHub. These tasks are used to guide the progress of projects and coordinate tasks to be completed within that project.
+# Project with testing different techniques for Twitter and Audio recording application
 
-## Security: 
-Tasks related to improving system security.
+## Project description
+The project is aimed at testing the functionalities of an audio application that uses the Tliter social network, cloud space and provides the possibility of audio sharing. The purpose is to ensure the stability and proper functioning of the software application.
+## Testing Techniques
+Enhancements
 
-## Testing: 
-Tasks related to testing system functionalities.
+Оptimizations
 
-## Integration: 
-Tasks related to system integration with various external services such as Twitter, Cloud Storage, Email System and others.
+Documentation
 
-## Documentation: 
-Tasks related to creating or updating system documentation.
+Security
 
-## Enhancement: 
-Tasks that introduce new functionality or improvements to existing ones.
+Integration
 
-## Optimizations: 
-These tasks may include performance improvements, code optimizations, data volume reduction, or enhancing the efficiency of various aspects of the system.
+## App version: 2.1.0
+## Operating System: iOS 15.0.1
